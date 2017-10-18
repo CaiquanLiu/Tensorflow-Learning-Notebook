@@ -17,7 +17,11 @@ Chapter 1: Getting Started with TensorFlow
 * Declaring Operations
 * Implementing Activation Functions
 * Working with Data Sources
+
 Chapter 2: The TensorFlow Way
 * Operations in a Computational Graph
 * Layering Nested Operations
 * Working with Multiple Layers
+* Implementing Back Propagation
+* Working with Batch and Stochastic Training
+
